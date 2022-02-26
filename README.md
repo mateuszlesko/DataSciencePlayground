@@ -1,5 +1,5 @@
 # DataSciencePlayground
-##My journey of Data Science learning
+## My journey of Data Science learning
 Documentation of my road to learn data science concepts.
 Repositorium contains theory and some practical exercises.
 Progress of learning data science on kaggle:
